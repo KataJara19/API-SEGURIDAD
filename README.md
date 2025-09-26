@@ -19,7 +19,7 @@
 
 ------------------------------------------------------------------------------------------------
 
-**EJEMPLO**
+**EJEMPLO DE USO**
 
 LOGIN EXITOSO:
 -- CREDENDCIALES
@@ -44,6 +44,8 @@ LOGIN NO EXITOSO:
 }
 
 --- RESPUESTA:
+
+
 <img width="859" height="438" alt="image" src="https://github.com/user-attachments/assets/fb84c6b0-5225-4d6e-be23-04b74c63e29b" />
 
 
